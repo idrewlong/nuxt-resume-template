@@ -1,7 +1,9 @@
 <template>
-	<div>
-		<h2 class="text-3xl font-bold mb-12">About</h2>
-		<p class="text-zinc-600 text-lg leading-relaxed">
+	<div class="mb-16">
+		<h2 class="text-2xl sm:text-3xl font-bold mb-6 sm:mb-12">About</h2>
+		<p
+			class="text-zinc-600 text-base sm:text-lg leading-relaxed max-w-full break-words"
+		>
 			For six years, I worked as a Senior UX Consultant at Spiegel Institut,
 			supporting Porsche's Navigation team. I handled specifications, guided
 			designers, and collaborated with developers—building a strong UX
